@@ -1,2 +1,2 @@
 # FungiClassifier
-A machine learning photographic fungi classifier
+A web application that classifies fungi photographs by species
